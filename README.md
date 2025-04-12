@@ -2,6 +2,8 @@
  
 Simulador grafico de un display de 7 segmentos.
 
+![Preview](imagenes/preview.png)
+
 ## Requerimientos
 
 - Python 3.9+
