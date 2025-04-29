@@ -1,4 +1,4 @@
-# Display 7
+# Display7
  
 Simulador grafico de un display de 7 segmentos.
 
